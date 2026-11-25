@@ -1,1 +1,11 @@
-
+employee_id,name,department,age,salary
+101,Rahul,IT,25,45000
+102,Priya,HR,28,35000
+103,Arjun,IT,30,60000
+104,Divya,Finance,27,40000
+105,Kiran,HR,32,38000
+106,Sneha,IT,29,55000
+107,Vijay,Finance,35,50000
+108,Ananya,IT,26,48000
+109,Manoj,HR,31,42000
+110,Keerthi,Finance,24,37000
